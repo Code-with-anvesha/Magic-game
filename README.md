@@ -1,4 +1,4 @@
- Magic Number Mind Game 🔮
+🧠 Magic Number Mind Game 🔮
 
 Ye ek chhota sa fun web project hai jisme main aapka socha hua number ka symbol guess karti hoon – jaise jaadu! 😄
 
