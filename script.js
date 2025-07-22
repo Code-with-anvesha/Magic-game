@@ -14,7 +14,7 @@ function showMessage() {
           message = "Tum kaafi talented ho, believe in yourself 💡";
           break;
       case 3:
-          message = "Tumhara favourite color blue ho sakta hai 🎨";
+          message = "Tumhara favourite color blue ho sakta hai 🟦";
           break;
       case 4:
           message = "Shayad tum abhi kuchh seekhne ke mood mein ho 📚";
