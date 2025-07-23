@@ -20,7 +20,7 @@ function showMessage() {
           message = "Shayad tum abhi kuchh seekhne ke mood mein ho 📚";
           break;
       default:
-          message = "Main soch nahi paayi! 😅";
+          message = "Main soch nahi paayi! 😁";
   }
 
   document.getElementById("message").innerText = message;
